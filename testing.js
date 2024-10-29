@@ -1,1 +1,1 @@
-alert(document.cookie)
+<script>alert(document.domain)</script>
